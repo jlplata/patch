@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "734833118210",
+    "firebase_url": "https://patchbeta.firebaseio.com",
+    "project_id": "patchbeta",
+    "storage_bucket": "patchbeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734833118210:android:e569f1d28c8c1fc24c6b1b",
+        "android_client_info": {
+          "package_name": "com.example.patchbetav1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734833118210-ptlra0i79r6rr0e3mj3290qvphche37f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFunwN01FX3LmwsbnJvuGUUXkEI3YJ6eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734833118210-ptlra0i79r6rr0e3mj3290qvphche37f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734833118210-gmgnvgqdp41udmdr5s5ci7cpnfj8ulec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.patchbetav1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
