@@ -1,9 +1,9 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:patchbetav1/models/user_data.dart';
-import 'package:patchbetav1/screen/home_screen.dart';
-import 'package:patchbetav1/screen/login_screen.dart';
-import 'package:patchbetav1/screen/signup_screen.dart';
+import 'package:Patch/models/user_data.dart';
+import 'package:Patch/screen/home_screen.dart';
+import 'package:Patch/screen/login_screen.dart';
+import 'package:Patch/screen/signup_screen.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(MyApp());

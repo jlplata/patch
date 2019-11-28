@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
-import 'package:patchbetav1/models/user_data.dart';
-import 'package:patchbetav1/screen/bloqueados.dart';
-import 'package:patchbetav1/screen/conectados.dart';
-import 'package:patchbetav1/screen/grupos.dart';
-import 'package:patchbetav1/screen/mensajes.dart';
-import 'package:patchbetav1/screen/profile_screen%20copy.dart';
+import 'package:Patch/models/user_data.dart';
+import 'package:Patch/screen/bloqueados.dart';
+import 'package:Patch/screen/conectados.dart';
+import 'package:Patch/screen/grupos.dart';
+import 'package:Patch/screen/mensajes.dart';
+import 'package:Patch/screen/profile_screen%20copy.dart';
 import 'package:provider/provider.dart';
 
 class HomeScreen extends StatefulWidget {

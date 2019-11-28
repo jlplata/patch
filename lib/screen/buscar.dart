@@ -1,9 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:patchbetav1/models/user_model.dart';
-import 'package:patchbetav1/screen/profile_screen.dart';
-import 'package:patchbetav1/service/database_service.dart';
+import 'package:Patch/models/user_model.dart';
+import 'package:Patch/screen/profile_screen.dart';
+import 'package:Patch/service/database_service.dart';
 
 class SearchScreen extends StatefulWidget {
   @override

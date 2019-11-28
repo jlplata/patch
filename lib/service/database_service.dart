@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:patchbetav1/models/user_model.dart';
-import 'package:patchbetav1/utils/constants.dart';
+import 'package:Patch/models/user_model.dart';
+import 'package:Patch/utils/constants.dart';
 
 class DatabaseService {
   static void updateUser(User user) {

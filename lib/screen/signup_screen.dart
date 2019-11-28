@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:patchbetav1/service/auth_service.dart';
-import 'package:patchbetav1/utils/BordingReg.dart';
+import 'package:Patch/service/auth_service.dart';
+import 'package:Patch/utils/BordingReg.dart';
 
 class SignupScreen extends StatefulWidget {
 

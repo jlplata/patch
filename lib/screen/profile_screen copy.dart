@@ -1,10 +1,10 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:patchbetav1/models/CardItemModel.dart';
-import 'package:patchbetav1/models/user_model.dart';
-import 'package:patchbetav1/service/auth_service.dart';
-import 'package:patchbetav1/utils/constants.dart';
+import 'package:Patch/models/CardItemModel.dart';
+import 'package:Patch/models/user_model.dart';
+import 'package:Patch/service/auth_service.dart';
+import 'package:Patch/utils/constants.dart';
 
 import 'edit_profile_screen.dart';
 

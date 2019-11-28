@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
-import 'package:patchbetav1/models/Desconectar.dart';
+import 'package:Patch/models/Desconectar.dart';
 
 class Bloqueados extends StatefulWidget {
   @override

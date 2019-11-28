@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:patchbetav1/screen/signup_screen.dart';
-import 'package:patchbetav1/service/auth_service.dart';
-import 'package:patchbetav1/utils/onBordingImageClipper.dart';
+import 'package:Patch/screen/signup_screen.dart';
+import 'package:Patch/service/auth_service.dart';
+import 'package:Patch/utils/onBordingImageClipper.dart';
 
 class LoginScreen extends StatefulWidget {
 
@@ -28,7 +28,7 @@ class _LoginScreenState extends State<LoginScreen> {
     return Scaffold(
       resizeToAvoidBottomInset: true,
       backgroundColor: Colors.white,
-      body: Container(
+      body: SingleChildScrollView(
         child: Column(
           children: <Widget>[
             Stack(

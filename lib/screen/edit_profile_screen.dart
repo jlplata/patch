@@ -2,9 +2,9 @@ import 'dart:io';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:patchbetav1/models/user_model.dart';
-import 'package:patchbetav1/service/database_service.dart';
-import 'package:patchbetav1/service/storage_service.dart';
+import 'package:Patch/models/user_model.dart';
+import 'package:Patch/service/database_service.dart';
+import 'package:Patch/service/storage_service.dart';
 
 class EditProfileScreen extends StatefulWidget {
   final User user;

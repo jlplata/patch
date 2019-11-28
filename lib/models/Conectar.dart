@@ -1,4 +1,4 @@
-import 'package:patchbetav1/models/user_model_grp.dart';
+import 'package:Patch/models/user_model_grp.dart';
 
 class Conectar {
   final Users sender;

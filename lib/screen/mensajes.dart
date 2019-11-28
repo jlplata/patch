@@ -78,6 +78,7 @@ class _ChatScreenState extends State<ChatScreen> {
               icon: Icon(Icons.delete,
               color: Colors.white),
               onPressed: () {
+                deleteMessages();
               }),
         ],
         title: Text(
